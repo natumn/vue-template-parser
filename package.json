@@ -1,0 +1,23 @@
+{
+  "name": "veepar",
+  "version": "1.0.0",
+  "description": "vue template parser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phustly/veepar.git"
+  },
+  "author": "natsumen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phustly/veepar/issues"
+  },
+  "homepage": "https://github.com/phustly/veepar#readme",
+  "dependencies": {
+    "babylon": "^6.18.0",
+    "romagny13-html-parser": "^0.1.3"
+  }
+}
